@@ -1,0 +1,68 @@
+/*c++*/
+.card-main
+{
+   background: rgb(159 148 148 / 11%);
+	text-align:right;
+	
+}
+
+.card-main .video
+{
+    padding-top:20px;
+	background: rgb(255 255 255);
+	margin:0px 20px;
+   
+}
+
+.card-main .video .list
+{padding-top:50px;background:rgb(159 148 148 / 20%);}
+
+.card-main .video .list .list_1
+{
+	font-size:20px;
+	font-family: 'Cairo', sans-serif;
+	margin-bottom:20px;
+	border:1px solid#0008ffcc;
+	display:inline-block;
+	padding:5px;
+	
+	}
+.card-main .video .list .list_1 span{color:#0008ffcc;}
+.card-main .video .list_2
+{
+	font-size:17px;
+	font-family: 'Tajawal', sans-serif;
+	margin-bottom:15px;
+	}
+
+	.card-main .video .list li
+	{
+	font-family: 'El Messiri', sans-serif;
+	font-weight:bold;	
+	color:rgb(16 16 16 / 79%);
+	font-size:13px;
+	display:inline-block;
+	}
+	
+.video .card-body{margin-right:22px;	}
+.btn {margin-right:20px;}
+.content-video{height:30px;}
+.content-video p
+{
+	font-family: 'El Messiri', sans-serif;
+	float:right;
+	font-size:17px;
+	padding-right:7px;
+}
+.fa-solid
+ {font-size:15px;
+ float:right;
+ margin-right:13px;
+ color:#0008ffcc;
+ }
+
+
+
+.card-header{font-family: 'Tajawal', sans-serif;}
+
+

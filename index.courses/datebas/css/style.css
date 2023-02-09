@@ -1,0 +1,98 @@
+.fatures-cours{
+	margin-top:20px;
+	padding:10px 0px;
+     background:rgb(231 231 231);
+}
+.fatures-cours h2{
+	border-radius:7px;
+	background:#ffffff;
+	display:inline-block;
+	margin-top:30px;
+    margin-bottom:50px;
+	width:170px;
+}
+.fatures-cours .fatures-cours2{
+	
+	border-radius:15px;
+    background:rgb(255 255 255 / 90%);
+	display:inline-block;
+	width:360px;
+	height:300px;
+	margin-top:15px;
+    margin-bottom:15px;
+}
+
+.fatures-cours .fatures-cours2 img{
+	border-radius:15px 15px 0px 0px;
+	background:rgba(0,0,0,0.8);
+}
+.fatures-cours .fatures-cours2 h5{
+ color:#000;
+ margin-bottom:160px;
+ font-size:20px;
+ border-radius:7px;
+ background:rgb(255 255 255 / 79%);
+ display:inline-block;
+ font-family: 'Tajawal', sans-serif;
+ width:80px;
+ padding:2px 0px;
+
+ }
+ 
+.fatures-cours .fatures-cours2 h6{
+ color:#000;
+ margin-bottom:247px;
+ font-size:20px;
+ border-radius:7px;
+ background:rgb(255 255 255 / 79%);
+ display:inline-block;
+ font-family: 'Tajawal', sans-serif;
+ width:120px;
+margin-left:200px;
+	
+ }
+ 
+.fatures-cours .fatures-cours2text3
+{
+	margin-top:20px;
+    font-size:20px;
+	font-family: 'Tajawal', sans-serif;
+ }
+ 
+.fatures-cours .fatures-cours2text3 a
+ {color:#000;}
+ 
+ .fatures-cours .fatures-cours2text3 a:hover
+ {text-decoration: none;}
+ 
+ /*-font awsame*/
+ .fa-solid
+ {font-size:20px;
+ color:#0008ffcc;
+ }
+ 
+ .content p{
+ color:#000;
+ font-size:20px;
+ background:rgb(255 255 255 / 90%);
+ display:inline-block;
+ margin-top:40px;
+ margin-bottom:40px;
+ padding:5px 20px;
+ border:5px solid#0008ffcc;
+ font-weight:bold;
+ 
+ }
+ 
+ 
+ .ads p{
+ margin-bottom:10px;
+ background:rgb(255 255 255 / 90%);
+ display:inline-block;
+ padding:10px;
+ }
+ 
+ 
+ 
+ 
+ 

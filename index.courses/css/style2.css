@@ -1,0 +1,167 @@
+body{
+	
+	background-color:#f3f3f3;
+}
+
+
+ .content p{
+ font-family: 'Cairo', sans-serif;
+ color:#000;
+ font-size:20px;
+ display:inline-block;
+ margin-top:35px;
+ margin-bottom:40px;
+ padding:5px 20px;
+ font-weight:bold;
+ 
+ }
+ .content span{
+ border:solid#0008ffcc;
+ border-width:0px 0px 4px 0px;}
+ 
+ 
+ .ads p{
+ margin-bottom:25px;
+ background:rgb(255 255 255 / 90%);
+ display:inline-block;
+ padding:10px;
+ }
+.programs1
+{
+	height:150px;
+	border-radius:10px;
+	width:350px;
+	padding:15px;
+	background-color:#fff;
+	margin-bottom:20px;
+	display:inline-block;
+
+}
+
+
+.programs .programs1 p{
+	font-size:20px;
+	font-weight:bold;
+	padding-top:15px;
+	padding-bottom:0px;
+}
+
+
+
+.programs .programs1 a
+{color:#000}
+
+
+.programs .programs1 a:hover{text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foater{
+	background-color:#363232cf;
+	color:#fff;
+	margin-top:40px;
+    margin-bottom:40px;
+    	
+}
+.foater .list-unstyled li
+{
+	line-height:30px;
+	font-size:17px;
+}
+.foater .foater-class
+{
+	padding:20px;
+}
+.foater .foater-class h4{color:#ffd0d0;}
+.foater .list-unstyled a{color:#fff;}
+
+
+
+
+.caoy p
+{
+	padding-bottom:20px;
+
+	padding-top:10px;
+}
+.foater .caoy span
+{
+	color:red;
+}
+.body{
+	
+	background-color:#f3f3f3;
+}
+
+
+
+
+.programs .programs1 p{
+	font-size:20px;
+	font-weight:bold;
+	padding-top:15px;
+	padding-bottom:0px;
+}
+
+
+
+.programs .programs1 a
+{color:#000}
+
+
+.programs .programs1 a:hover{text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foater{
+	background-color:#363232cf;
+	color:#fff;
+	margin-top:40px;
+    margin-bottom:40px;
+    	
+}
+.foater .list-unstyled li
+{
+	line-height:30px;
+	font-size:17px;
+}
+.foater .foater-class
+{
+	padding:20px;
+}
+.foater .foater-class h4{color:#ffd0d0;}
+.foater .list-unstyled a{color:#fff;}
+
+
+
+
+.caoy p
+{
+	padding-bottom:20px;
+
+	padding-top:10px;
+}
+.foater .caoy span
+{
+	color:red;
+}
